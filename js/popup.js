@@ -1,10 +1,5 @@
 
-
-<<<<<<< HEAD
-let kuvienmäärä = 46;
-=======
-let kuvienmäärä = 46;
->>>>>>> 0eb73c4f1c98a53b5e82f176b0bf71c4e9432cbf
+let kuvienmäärä = 51;
 
 
 let desktop = true;
