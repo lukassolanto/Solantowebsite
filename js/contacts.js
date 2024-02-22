@@ -2,7 +2,7 @@
 
 function sendMessage(){
     Email.send({
-        SecureToken : "f7913e7d-bc2f-43bd-941a-5327f889ff7f",
+        SecureToken : "84369a2b-c7e5-462a-8aff-6732b2d674e4",
         To : 'akseli.siili@gmail.com',
         From : "viesti.sol@proton.me",
         Subject : "This is the subject",
