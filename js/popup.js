@@ -1,5 +1,5 @@
 
-let kuvienmäärä = 51;
+let kuvienmäärä = 52;
 
 
 let desktop = true;
